@@ -1,0 +1,16 @@
+{
+  "name": "multi-editor",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codemirror/state": "^6.4.1",
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
